@@ -30,7 +30,7 @@ You can also build the app yourself using Xcode.
 
 1.  Clone this repository:
     ```sh
-    git clone [https://github.com/ysalitrynskyi/cam-check.git](https://github.com/ysalitrynskyi/cam-check.git)
+    git clone https://github.com/ysalitrynskyi/cam-check.git
     ```
 2.  Open the `CamCheck.xcodeproj` file in Xcode.
 3.  Select "Product" > "Archive" to create a build.
